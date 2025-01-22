@@ -1,0 +1,17 @@
+.card-style{    
+    margin-top: 6.5rem;
+}
+
+.card-style h1{
+    font-size: 3.9rem;
+}
+
+.card-style #h1{
+    color: #007dfe;
+}
+
+.card-style h2{
+    color: grey;
+    font-size: 2.4rem;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,15 @@
+.single__course__item {
+    padding: 2rem;    
+  }
+  
+  .course__img img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+
+  .course__details{
+    background-color: lightgrey;
+    padding: 5px;
+    border-radius: 8px;
+  }
+  

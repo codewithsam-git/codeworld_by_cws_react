@@ -1,0 +1,76 @@
+.single__course__item {
+  padding: 1px;
+  /* background-color: #00c7a9; */
+}
+
+.course__details{
+  /* background-color: #ED3237;     */
+  background-color: white;    
+}
+
+.course__img img {
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.enroll a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #17bf9e;
+}
+
+.lesson,
+.students,
+.rating {
+  font-size: 0.9rem;
+  color: #0a2b1e;
+  font-weight: 500;
+}
+
+.lesson i,
+.students i,
+.rating i {
+  font-weight: 400;
+}
+
+.course__title {
+  line-height: 2rem;
+}
+
+.course__top__left h2 {
+  font-weight: 600;
+}
+
+.enrollbtn{
+  background-color: #fc3c43;
+  color: white;
+  border-radius: 5px;
+}
+
+.enrollbtn:hover{
+  background-color: #ED3237;
+  color: white;
+}
+
+.coursebg{
+background-color: #e9ecef;
+}
+
+#homecourseh2{
+color: #fc3c43;
+}
+
+p{
+font-size: 1.2rem;
+}
+
+.viewmorebtn{
+width: 12vw;
+padding: 8px;
+border: none;
+border-radius: 25px;
+background-color: #c9dce9;
+color: black;
+font-size: 1.2rem;
+}

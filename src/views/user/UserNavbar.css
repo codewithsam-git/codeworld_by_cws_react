@@ -1,0 +1,23 @@
+.custom-navbar {
+    background-color: white;
+    box-shadow: 0px 2px 6px 0px rgba(73, 49, 157, 0.5);
+    padding: 1.1rem 15px;
+}
+
+.navbar-brand {
+    color: #343a40;
+    font-size: 1.3rem;
+}
+
+.nav-link {
+    color: #343a40;
+    font-size: 1.2rem;
+}
+
+/* .active{
+    font-weight: bold;
+} */
+
+.nav-link:hover {
+    color: #ffc107 !important;
+}

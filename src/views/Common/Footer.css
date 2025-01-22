@@ -1,0 +1,27 @@
+.footer1 {
+    background:#292930;
+    padding: 3rem;
+    font-size: 1.2rem;
+  }
+  
+  .follows span a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .follows span {
+    margin-right: 15px;
+    color: white;
+  }
+  
+  .link__list .link__item {
+    background: transparent;
+    color: white;
+  }
+  
+  .link__list a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+  }
+  

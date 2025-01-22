@@ -1,0 +1,1 @@
+export const BASE_URL = "http://localhost/codeworld_by_cws_php";
